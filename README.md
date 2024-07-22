@@ -6,6 +6,6 @@
 
 Playground for participants of the 6th [CoDaS-HEP school](https://codas-hep.org/) at Princeton University on 22 Jul 2024.
 
-Please only modify below this line
+Modified
 
 ---
